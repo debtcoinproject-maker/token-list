@@ -1,0 +1,12 @@
+{
+  "name": "Debtcoin",
+  "symbol": "DEBT",
+  "description": "Meme your way out of debt — the first community-driven meme coin built to inspire financial freedom through humor, staking, and shared recovery.",
+  "image": "https://github.com/debtcoinproject-maker/Debtcoin-metadata/blob/main/51ghebVHwbERs5ESn1cF9gXvtfCqdHRYa874fRK8f3Wj.png",
+  "extensions": {
+    "website": "https://debtcoin.app",
+    "twitter": "https://x.com/debtcoin",
+    "telegram": "https://t.me/debtcoincommunity"
+  },
+  "tags": ["meme", "community", "solana"]
+}
